@@ -1,0 +1,17 @@
+{
+	"name": "@veevoy/configs",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "ISC",
+	"packageManager": "pnpm@10.15.1",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"exports": {
+		"./biome": "./biome.jsonc"
+	},
+	"dependencies": {
+		"@biomejs/biome": "^2.2.4"
+	}
+}

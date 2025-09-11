@@ -1,0 +1,1 @@
+# veevoy - shared libs
