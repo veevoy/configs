@@ -1,8 +1,7 @@
 {
 	"name": "@veevoy/configs",
 	"version": "1.0.0",
-	"description": "",
-	"license": "ISC",
+	"license": "MIT",
 	"packageManager": "pnpm@10.15.1",
 	"scripts": {
 		"publish-all": "pnpm -r publish"

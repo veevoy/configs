@@ -2,7 +2,6 @@
 	"$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
 	"root": true,
 
-	// shared formatting rules
 	"formatter": {
 		"indentStyle": "tab",
 		"indentWidth": 2,
@@ -21,7 +20,6 @@
 				"useBlockStatements": "error"
 			},
 			"nursery": {
-				// Tailwind CSS class sorting
 				"useSortedClasses": {
 					"fix": "safe",
 					"level": "on",
@@ -43,7 +41,6 @@
 		}
 	},
 
-	// js, jsx, ts, tsx
 	"javascript": {
 		"formatter": {
 			"quoteStyle": "single",

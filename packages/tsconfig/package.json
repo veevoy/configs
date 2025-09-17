@@ -1,12 +1,12 @@
 {
 	"name": "@veevoy/tsconfig",
 	"version": "1.0.0",
+	"description": "Shared TypeScript configuration for Veevoy projects",
 	"main": "tsconfig.json",
 	"files": [
 		"tsconfig.json"
 	],
 	"license": "MIT",
-	"packageManager": "pnpm@10.15.1",
 	"repository": {
 		"type": "git",
 		"url": "git@github.com:veevoy/configs.git",

@@ -1,12 +1,12 @@
 {
 	"name": "@veevoy/biome-config",
 	"version": "1.0.0",
-	"main": "biome.jsonc",
+	"description": "Shared Biome configuration for Veevoy projects",
+	"main": "biome.json",
 	"files": [
-		"biome.jsonc"
+		"biome.json"
 	],
 	"license": "MIT",
-	"packageManager": "pnpm@10.15.1",
 	"repository": {
 		"type": "git",
 		"url": "git@github.com:veevoy/configs.git",
