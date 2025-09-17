@@ -1,0 +1,10 @@
+{
+	"name": "@veevoy/biome-config",
+	"version": "1.0.0",
+	"main": "biome.jsonc",
+	"files": [
+		"biome.jsonc"
+	],
+	"license": "MIT",
+	"packageManager": "pnpm@10.15.1"
+}

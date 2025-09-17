@@ -12,11 +12,9 @@ importers:
         specifier: ^2.2.4
         version: 2.2.4
 
-  packages/biome-config:
-    dependencies:
-      '@biomejs/biome':
-        specifier: ^2.2.4
-        version: 2.2.4
+  packages/biome-config: {}
+
+  packages/tsconfig: {}
 
 packages:
 

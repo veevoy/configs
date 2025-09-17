@@ -1,11 +1,11 @@
 {
-	"name": "@veevoy/shared",
+	"name": "@veevoy/configs",
 	"version": "1.0.0",
 	"description": "",
 	"license": "ISC",
 	"packageManager": "pnpm@10.15.1",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"publish-all": "pnpm -r publish"
 	},
 	"dependencies": {
 		"@biomejs/biome": "^2.2.4"

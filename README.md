@@ -1,1 +1,1 @@
-# veevoy - shared libs
+# veevoy - shared configs

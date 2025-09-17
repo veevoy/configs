@@ -1,5 +1,5 @@
 {
 	"extends": [
-		"./packages/config/biome.jsonc"
+		"./packages/biome-config/biome.jsonc"
 	]
 }
