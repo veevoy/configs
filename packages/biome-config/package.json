@@ -9,10 +9,10 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:veevoy/configs.git",
+		"url": "https://github.com/veevoy/configs.git",
 		"directory": "packages/biome-config"
 	},
 	"publishConfig": {
-		"access": "public"
+		"registry": "https://npm.pkg.github.com"
 	}
 }
