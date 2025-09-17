@@ -13,7 +13,6 @@
 		"directory": "packages/biome-config"
 	},
 	"publishConfig": {
-		"registry": "https://npm.pkg.github.com",
 		"access": "public"
 	}
 }
