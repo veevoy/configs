@@ -5,7 +5,7 @@
 	"packageManager": "pnpm@10.15.1",
 	"private": true,
 	"scripts": {
-		"publish-all": "pnpm -r publish --no-git-checks"
+		"publish-all": "pnpm -r publish --access public --no-git-checks"
 	},
 	"dependencies": {
 		"@biomejs/biome": "^2.2.4"
