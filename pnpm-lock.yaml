@@ -11,6 +11,13 @@ importers:
       '@biomejs/biome':
         specifier: ^2.2.4
         version: 2.2.4
+    devDependencies:
+      '@veevoy/biome-config':
+        specifier: ^1.0.0
+        version: 1.0.0
+      '@veevoy/tsconfig':
+        specifier: ^1.0.0
+        version: 1.0.0
 
   packages/biome-config: {}
 
@@ -71,6 +78,12 @@ packages:
     cpu: [x64]
     os: [win32]
 
+  '@veevoy/biome-config@1.0.0':
+    resolution: {integrity: sha512-aFllrvhdxl4VkV5KwWFCaV1WnUuqq1urcNIxFo8NX3g1/VkmsIghutsie5+oWgv9FWZPs/aqRHuXjPRrnDEjMQ==}
+
+  '@veevoy/tsconfig@1.0.0':
+    resolution: {integrity: sha512-i5DeDAYV8qmY1lXEDJSgo1RwA4EwbceeKkmimYPxUJ2iTwZMjiifEHupTFbhOY481XvsnRQVjwZ8uhNytgEoKA==}
+
 snapshots:
 
   '@biomejs/biome@2.2.4':
@@ -107,3 +120,7 @@ snapshots:
 
   '@biomejs/cli-win32-x64@2.2.4':
     optional: true
+
+  '@veevoy/biome-config@1.0.0': {}
+
+  '@veevoy/tsconfig@1.0.0': {}

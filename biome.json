@@ -1,5 +1,5 @@
 {
 	"extends": [
-		"./packages/biome-config/biome.json"
+		"@veevoy/biome-config/biome.json"
 	]
 }

@@ -9,5 +9,9 @@
 	},
 	"dependencies": {
 		"@biomejs/biome": "^2.2.4"
+	},
+	"devDependencies": {
+		"@veevoy/biome-config": "^1.0.0",
+		"@veevoy/tsconfig": "^1.0.0"
 	}
 }
