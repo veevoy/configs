@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"license": "MIT",
 	"packageManager": "pnpm@10.15.1",
+	"private": true,
 	"scripts": {
 		"publish-all": "pnpm -r publish"
 	},
